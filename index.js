@@ -3,7 +3,7 @@ var fs = require('fs');
 const axios = require("axios");
 
 // Questions asked to the user
-inquier.questions = [
+inquirer.questions = [
     {
         type: "input",
         message: "What is your project title?",
