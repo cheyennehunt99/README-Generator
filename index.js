@@ -71,7 +71,7 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-    prompt(questions).then(answers => {
+    inquierer.prompt(questions).then(answers => {
         
         const response = generateMarkdown(answers);
         console.log(answers);
