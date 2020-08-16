@@ -35,6 +35,8 @@ Next you want to install npm init, npm inquirer, npm fs, npm util, & npm init
 ## Expectations
 ![READ_ME](img/expectations.png)
 
+When you run node index.js in your terminal (Git Bash for PC) you should successfully create a read me. If there are no errors "Success!" will show display and you
+are able to view your genertaed ReadMe in the READ.md located in the Utils folder. 
 
 
 ## Author
