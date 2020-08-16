@@ -1,6 +1,6 @@
 
 
-  # d
+  # Readme generator
 
 # Table of Contents
 -[Description](#description)
@@ -13,22 +13,23 @@
 -[Email](#email)
 
 ## Description:
-d
+Conveniently create ReadMe's through node.js
 
-![License](https://img.shields.io/endpoint?style=flat-square- "License Badge")
+![License](https://img.shields.io/badge/License--blue.svg "License Badge")
+
 
 ## Installation:
-    d
+    npm init, npm i inquirer, fs, util
 ## Usage:
-    d
+    Create excellent ReadMe Markdown's for Github repositories
 ## License:
     
 ## Contribution:
-    me
+    Cheyenne H.
 ## Test:
-    f
+    Left hand side click Read.md
 ## Question:
-    c
+    cheyennehunt99
 ## Email:
-    d
+    cheyennehunt78@gmail.com
 
