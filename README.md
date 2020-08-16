@@ -30,7 +30,7 @@ ReadMe generator for GitHub repositories created using node.js
 ## Usage
 
 Make sure you create a .gitignore including files node_modules/ and .DS_store/
-Next you want to install npm init, npm inquirer, npm fs, & npm util
+Next you want to install npm init, npm inquirer, npm fs, npm util, & npm init
 
 ## Expectations
 ![READ_ME](img/expectations.png)
