@@ -1,7 +1,7 @@
 # README-Generator
 
 ## Demo
-![READ_ME](gif/README.gif)
+![READ_ME](gif/demo.gif)
 ## Table of contents
 
 - [General info](#general-info)
@@ -33,7 +33,7 @@ Make sure you create a .gitignore including files node_modules/ and .DS_store/
 Next you want to install npm init, npm inquirer, npm fs, & npm util
 
 ## Expectations
-![READ_ME](img/Preview.png)
+![READ_ME](img/expectations.png)
 
 
 

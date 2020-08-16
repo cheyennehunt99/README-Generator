@@ -80,7 +80,6 @@ ${response.description}
 
 ![License](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")
 
-
 ## Installation:
     ${response.installation}
 ## Usage:
